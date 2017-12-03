@@ -1,6 +1,4 @@
-Guide til LITEBEAM 5AC GEN2
-
-## LITEBEAM 5AC GEN2
+## NanoStation M5
 * **Basic Wireless Settings**
    * WIRELESS MODE: 
    ```ssh
