@@ -35,7 +35,8 @@
    ```
    * OUTPUT POWER: 
    ```ssh
-   Indstilles manuelt til vi ligger på ca. 50-55 dBm. Alt under 40 dBm er for hot, og kan forringe sendepunkets kvalitet, og           f    forbindelser over 70 dBm vil være for dårlige. 
+   Indstilles manuelt til vi ligger på ca. 50-55 dBm. Alt under 40 dBm er for hot, og kan forringe sendepunkets kvalitet, og
+   forbindelser over 70 dBm vil være for dårlige. 
    ```
    * AUTO ADJUST DISTANCE: 
    ```ssh
