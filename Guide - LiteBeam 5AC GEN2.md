@@ -1,84 +1,93 @@
-## LITEBEAM 5AC GEN2
+## LITEBEAM 5AC GEN2 - "WIRELESS"
 * **Basic Wireless Settings**
    * WIRELESS MODE: 
    ```ssh
-   Tekst og beskrivelse
+   Station PtMP
    ```
    * SSID: 
    ```ssh
-   Tekst og beskrivelse
+   Det sendepunkt man forbinder til, f.eks. www.kolinds.net_KOL2_C_P4_N for Nord panelet på møllen.
+   Vi besluttede på sidste møde at undlade www. fremadrettet, dette er dog ikke blevet ændret endnu.
    ```
    * LOCK TO MAC: 
    ```ssh
-   Tekst og beskrivelse
+   Denne funktion bliver aktiveret, hvis man trykker på "Select" ud for SSID, og vælger et sendepunkt, og så trykker på "LOCK TO AP" i      bunden. Dette låser så bruger radioen kun kan connecte til denne specifikke MAC adresse, og skal ændres eller slettes ved udskiftning    af radio i sendepunkt. Bør ikke anvendes. 
    ```
    * CHANNEL WIDTH: 
    ```ssh
-   Tekst og beskrivelse
+   Auto 20/40 MHz
    ```
    * AUTO CHANNEL WIDTH: 
    ```ssh
-   Tekst og beskrivelse
+   OFF
    ```
    * CONTROL FREQUENCY SCAN LIST, MHz: 
    ```ssh
-   Tekst og beskrivelse
+   OFF
    ```
    * ANTENNA: 
    ```ssh
-   Tekst og beskrivelse
+   23 - 23 dBi
    ```
    * CALCULATE EIRP LIMIT: 
    ```ssh
-   Tekst og beskrivelse
+   Skal stå til "OFF" og så indstilles Output power, som er næste punkt. Hvis den stilles til "ON" Så kører den auto, og det kan            muligvis være ustabilt.
    ```
    * OUTPUT POWER: 
    ```ssh
-   Tekst og beskrivelse
+   Indstilles manuelt til vi ligger på ca. 50-55 dBm. Alt under 40 dBm er for hot, og kan forringe sendepunkets kvalitet, og           f    forbindelser over 70 dBm vil være for dårlige. 
    ```
    * AUTO ADJUST DISTANCE: 
    ```ssh
-   Tekst og beskrivelse
+   ON
    ```
    * DISTANCE: 
    ```ssh
-   Tekst og beskrivelse
+   Kører auto pga. sidste punkt.
    ```
    * MAX TX DATA RATE: 
    ```ssh
-   Tekst og beskrivelse
+   Auto
    ```
    * DATA RATE MODULE: 
    ```ssh
-   Tekst og beskrivelse
-   ```
-   * SSID: 
-   ```ssh
-   Tekst og beskrivelse
-   ```
-* Hoved emne 
-   * SSID: 
-   ```ssh
-   Tekst og beskrivelse
+   Default
    ```
 * **Wireless Security** 
    * SECURITY: 
    ```ssh
-   Tekst og beskrivelse
+   WPA2-AES
    ```
    * WPA AUTHENTICATION: 
    ```ssh
-   Tekst og beskrivelse
+   PSK
    ```
    * WPA PRESHARED KEY: 
    ```ssh
-   Tekst og beskrivelse
+   Key@kol1ind (Husk stort K i Key)
    ```
-
-
-
-   * Template: 
+* **Secondary SSID**   
+   * Denne funktion er disabled *
+      ```ssh
+      ```
+* **Advanced** 
+   * AMPDU:
    ```ssh
-   Tekst og beskrivelse
+   32
    ```
+   * AMSDU:
+   ```ssh
+   ON
+   ```
+   * Sensitivity Treshold:
+   ```ssh
+   OFF
+   ```
+   * Automatic Powercontrol:
+   ```ssh
+   ON
+   ```
+   
+   
+   
  
