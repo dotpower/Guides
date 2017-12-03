@@ -87,6 +87,18 @@
    ```ssh
    ON
    ```
+   ## LITEBEAM 5AC GEN2 - "NETWORK"
+* **Network Role**
+   * Network Mode: 
+   ```ssh
+   Router
+   ```
+* **Configuration Mode**
+   * Configuration Mode: 
+   ```ssh
+   Simple
+   ```
+   
    
    
    
