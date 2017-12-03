@@ -11,7 +11,7 @@
    ```
    * LOCK TO MAC: 
    ```ssh
-   Denne funktion bliver aktiveret, hvis man trykker på "Select" ud for SSID, og vælger et sendepunkt, og så trykker på "LOCK TO AP" i      bunden. Dette låser så bruger radioen kun kan connecte til denne specifikke MAC adresse, og skal ændres eller slettes ved udskiftning    af radio i sendepunkt. Bør ikke anvendes. 
+   Denne funktion bliver aktiveret, hvis man trykker på "Select" ud for SSID, og vælger et sendepunkt, og så trykker på "LOCK TO AP" i bunden. Dette låser så bruger radioen kun kan connecte til denne specifikke MAC adresse, og skal ændres eller slettes ved udskiftning af radio i sendepunkt. Bør ikke anvendes. 
    ```
    * CHANNEL WIDTH: 
    ```ssh
@@ -31,12 +31,11 @@
    ```
    * CALCULATE EIRP LIMIT: 
    ```ssh
-   Skal stå til "OFF" og så indstilles Output power, som er næste punkt. Hvis den stilles til "ON" Så kører den auto, og det kan            muligvis være ustabilt.
+   Skal stå til "OFF" og så indstilles Output power, som er næste punkt. Hvis den stilles til "ON" Så kører den auto, og det kan muligvis være ustabilt.
    ```
    * OUTPUT POWER: 
    ```ssh
-   Indstilles manuelt til vi ligger på ca. 50-55 dBm. Alt under 40 dBm er for hot, og kan forringe sendepunkets kvalitet, og
-   forbindelser over 70 dBm vil være for dårlige. 
+   Indstilles manuelt til vi ligger på ca. 50-55 dBm. Alt under 40 dBm er for hot, og kan forringe sendepunkets kvalitet, og forbindelser over 70 dBm vil være for dårlige. 
    ```
    * AUTO ADJUST DISTANCE: 
    ```ssh
