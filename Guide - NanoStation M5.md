@@ -1,6 +1,6 @@
 ## NanoStation M5
-* **Basic Wireless Settings**
-   * WIRELESS MODE: 
+* **Hoved menu**
+   * Undermenu: 
    ```ssh
    Tekst og beskrivelse
    ```
